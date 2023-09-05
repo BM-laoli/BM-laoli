@@ -1,16 +1,13 @@
 
-<h2> Hey there! I'm Joney (无双). <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Joney. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Android & IOS & Golang & NodeJS Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; IOS developer and front-end web developer.
+- 🔭 &nbsp; Recent: I am doing some iOS/MacOS Native applications. They are related to machine learning on iOS/MacOS
+- 🎓 &nbsp; Education information: graduated from Nankai University, major in computer science, main attack machine learning
+- 💼 &nbsp; In Newegg. As a full stack engineer, the main development of iOS React front -end development and .Nodejs .NET back -end development
 - 🌱 &nbsp; Enthusiast in Golang and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
 ### My Skill Set  
